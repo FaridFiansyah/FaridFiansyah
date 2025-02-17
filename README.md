@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=435&lines=Schooze;ROS+2+Programmer;C+and+Python+Expert;Arduino+%26+STM32+Enthusiast;Open-source+Contributor;Automation+%26+Robotics+Fanatic!)
 
 <!--
 **FaridFiansyah/FaridFiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
